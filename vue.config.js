@@ -3,5 +3,5 @@ module.exports = {
   devServer: {
       disableHostCheck: true
   },
-  // publicPath: '/remember-me/'
+  publicPath: '/remember-me/'
 }
